@@ -2,7 +2,7 @@ body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #414a52;
+	color: red;
 	width: 100% !important;
 	height: 100% !important;
 }
